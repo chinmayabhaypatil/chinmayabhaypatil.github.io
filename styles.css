@@ -1,0 +1,148 @@
+body {
+    background-image: url("iu8EKbX.png");
+    /* background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover; */
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+    color: white;
+    margin:0;
+    padding:0;
+  }
+
+.name {
+    font-family: "Arial";
+    font-size: 40;
+    text-align: center;
+}
+
+.description {
+  text-align: center;
+  position: relative;
+}
+
+#portfolio_img_id {
+    height: 300;
+    position: relative; 
+    display: inline-block; 
+    vertical-align: middle;
+}
+
+#description_text {
+  width: 50%; 
+  position: relative; 
+  display: inline-block; 
+  vertical-align: middle;
+  font-size: 22;
+  text-align: justify;
+  margin-left: 5%;
+  padding: 5%;
+  background-color: rgba(235, 225, 225, 0.2);
+  border-radius: 20px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgba(235, 225, 225, 0.2);
+    /* margin-top: 15px; */
+}
+
+.links {
+  float: right;
+  padding-right: 20px;
+}
+
+.topnav a {
+    float: left;
+    position: relative;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-family: "Arial";
+    font-size: 25;
+  }
+  
+.topnav a:hover {
+  background-color: rgba(235, 225, 225, 0.5);
+  color: black;
+}
+  
+.topnav a.active {
+  background-color: rgba(3, 5, 22, 0.7);
+  color: white;
+}
+
+.topnav_left_text{
+  float: left;
+  font-size: 25;
+  font-family: "Arial";
+  padding: 14px 70px;
+}
+
+.socials_div {
+  clear: both;
+  width: 100%;
+  text-align: center;
+}
+
+.socials {
+  border-radius: 10%;
+  height: 130px;
+  margin: 5% 5%;
+}
+
+table {
+  text-align: center;
+  font-family: "Arial";
+  font-size: 30;
+}
+
+td {
+  padding: 2%;
+  /* padding-bottom: 20px; */
+}
+/* 
+img {
+  width: 100px;
+  height: 100px;
+} */
+
+.projects {
+  text-align: center;
+}
+
+.projects p{
+  font: "Arial";
+  font-size: 25;
+}
+
+.projects_section_hr {
+  border: 0;
+  height: 3px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(225, 229, 231), rgba(0, 0, 0, 0));
+  margin-top: 50px;
+  margin-bottom: 10px;
+  width: 40%;
+}
+
+.education_experience {
+  text-align: center;
+}
+
+.education_experience p{
+  font: "Arial";
+  font-size: 25;
+}
+
+.education_section_hr {
+  border: 0;
+  height: 3px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(225, 229, 231), rgba(0, 0, 0, 0));
+  margin-top: 50px;
+  margin-bottom: 10px;
+  width: 40%;
+}
