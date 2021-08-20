@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     background-image: url("iu8EKbX.png");
     /* background-repeat: no-repeat;
@@ -7,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-
+    /* scroll-behavior:smooth; */
     color: white;
     margin:0;
     padding:0;
@@ -131,6 +135,9 @@ img {
 
 .education_experience {
   text-align: center;
+}
+
+.education_experience_section{
 }
 
 .education_experience p{
