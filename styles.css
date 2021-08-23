@@ -71,10 +71,10 @@ body {
     position: relative;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 30px;
+    padding: 16px 30px;
     text-decoration: none;
     font-family: "Arial";
-    font-size: 25;
+    font-size: 15;
   }
   
 .topnav a:hover {
@@ -89,9 +89,9 @@ body {
 
 .topnav_left_text{
   float: left;
-  font-size: 25;
+  font-size: 15;
   font-family: "Arial";
-  padding: 14px 70px;
+  padding: 16px 70px;
 }
 
 .socials_div {
@@ -102,8 +102,12 @@ body {
 
 .socials {
   border-radius: 10%;
-  height: 130px;
-  margin: 5% 5%;
+  height: 90px;
+  margin-top: 3.5%;
+  margin-bottom: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  /* margin: 5% 5%; */
 }
 
 table {
