@@ -56,8 +56,8 @@ body {
 .topnav {
     overflow: hidden;
     background-color: rgba(235, 225, 225, 0.2);
-    /* position: fixed; */
-    /* width: 100%; */
+    position: fixed;
+    width: 100%;
     /* margin-top: 15px; */
 }
 
