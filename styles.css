@@ -24,7 +24,7 @@ body {
 
 .name {
     font-family: "Arial";
-    font-size: 40;
+    font-size: 35;
     text-align: center;
 }
 
@@ -45,7 +45,7 @@ body {
   position: relative; 
   display: inline-block; 
   vertical-align: middle;
-  font-size: 22;
+  font-size: 18;
   text-align: justify;
   margin-left: 5%;
   padding: 5%;
